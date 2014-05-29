@@ -101,7 +101,7 @@ html,body {
 }
 
 #wrapper {	background-color:#fff;
-	overflow:auto;}
+	overflow:hidden;}
 
 #header {
 	
