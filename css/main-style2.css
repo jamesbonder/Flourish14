@@ -404,14 +404,14 @@ a.footlink:active {color:#999;}  /* selected link */
 
 .image_carousel {
 	margin-left:0px;
-    padding: 15px 0 15px 0px;
+    padding: 15px 0 2px 0px;
 	width:800px;
 }
 
 .image_carousel img {}
 
 #carouselbottom{
-	margin:0 0 45px 0;
+	margin:0 0 0px 0;
 }    
    
     padding: 8px;

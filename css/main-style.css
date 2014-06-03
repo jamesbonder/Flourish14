@@ -53,6 +53,8 @@ header h1{
 }
 
 h1 {
+	-webkit-font-family: ""Myriad Pro", Arial, "Times New Roman"";
+	-moz-font-family: ""Myriad Pro", Arial, "Times New Roman"";
 	font-family: ""Myriad Pro", Arial, "Times New Roman"";
 	padding: 10px 0 15px 10px;
 	line-height: 50px;
